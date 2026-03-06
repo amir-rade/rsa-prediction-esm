@@ -21,7 +21,7 @@ Recent protein language models capture structural information directly from sequ
 
 ## Acknowledgments
 
-This project uses the **ESM protein language model** developed by Meta AI:  
+## This project uses the **ESM protein language model** developed by Meta AI:  
 https://github.com/facebookresearch/esm
 =======
 # RSA Prediction with Protein Language Models
