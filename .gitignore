@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Data / cache
+data/
+cache/
+
+# Large model or temporary outputs
+*.pt
+*.pth
+*.parquet
+*.csv
+
+# Optional
+.idea/
+.vscode/
