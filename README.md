@@ -1,3 +1,4 @@
+HEAD
 # SASA-pred
 
 This repository contains a small, reproducible pipeline to predict **per-residue relative solvent accessibility (RSA)** from protein sequences using **protein language model embeddings (ESM2)** and lightweight neural network heads (CNN, BiLSTM, Transformer, CNN-BiLSTM).
@@ -22,3 +23,15 @@ Recent protein language models capture structural information directly from sequ
 
 This project uses the **ESM protein language model** developed by Meta AI:  
 https://github.com/facebookresearch/esm
+=======
+# RSA Prediction with Protein Language Models
+
+This project explores prediction of per-residue solvent accessibility (RSA)
+from protein sequences using embeddings from protein language models such as
+ESM-2 and deep learning architectures including CNNs and Transformers.
+
+The goal is to investigate sequence–structure relationships in proteins and
+develop machine learning approaches relevant to computational protein design.
+
+
+>>>>>>> 2685bb63aa318fdf55655ecaae6c5ea4d4f095e0
