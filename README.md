@@ -164,7 +164,7 @@ Users may adapt individual parts of the pipeline depending on the needs of their
 
 # Acknowledgments
 
-# This project uses the **ESM protein language model** developed by Meta AI:  
+## This project uses the **ESM protein language model** developed by Meta AI:  
 https://github.com/facebookresearch/esm
 =======
 
