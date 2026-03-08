@@ -2,7 +2,6 @@
 <img width="410" height="393" alt="Screen-Shot-2017-12-17-at-12 42 22-PM" src="https://github.com/user-attachments/assets/e4770029-25e5-4329-a074-5be119d3dfa9" />
 
 
-HEAD
 # RSA Prediction with Protein Language Models
 
 This project explores prediction of per-residue solvent accessibility (RSA)
